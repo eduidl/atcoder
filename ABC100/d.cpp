@@ -37,4 +37,3 @@ int main() {
     }
     cout << max_ << endl;
 }
-

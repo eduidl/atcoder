@@ -39,4 +39,3 @@ int main() {
     int ans = (n - 1 + k - 2) / (k - 1);
     cout << ans << endl;
 }
-

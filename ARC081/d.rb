@@ -58,4 +58,3 @@ gets
 s = gets.chomp.split(//)
 gets
 p answer(s, nil)
-

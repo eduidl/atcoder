@@ -22,4 +22,3 @@ int main() {
         cout << n * ret << endl;
     }
 }
-
