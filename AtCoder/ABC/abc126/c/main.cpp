@@ -40,5 +40,5 @@ int main() {
     }
     ans += tmp;
   }
-  cout << ans << endl;
+  cout << setprecision(10) << ans << endl;
 }
