@@ -11,7 +11,7 @@ constexpr int INF = 1 << 30;
 constexpr int MOD = 1000000007;
 
 template <typename T>
-void print(vector<T> &v) {
+void print(vector<T> v) {
   REP(i, v.size()) {
     if (i) cout << " ";
     cout << v[i];
